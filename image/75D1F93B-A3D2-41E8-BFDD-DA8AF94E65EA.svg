@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="313px" height="313px" viewBox="0 0 313 313" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>9E7A4EF6-4FD1-47C3-9C65-AECB8A2196A4</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="option-1-copy-2" transform="translate(-380.000000, -1367.000000)">
+            <g id="Play_Btn" transform="translate(381.000000, 1368.000000)">
+                <circle id="Oval-Copy" stroke="#FFFFFF" opacity="0.600000024" fill-rule="nonzero" cx="156" cy="156" r="120"></circle>
+                <circle id="Oval-Copy-2" stroke="#FFFFFF" opacity="0.300000012" fill-rule="nonzero" cx="155.5" cy="155.5" r="155.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="155.5" cy="155.5" r="65.5"></circle>
+                <g id="button-play" transform="translate(143.000000, 140.000000)" fill="#111111">
+                    <path d="M24.52,14.146 L1.52,0.146 C1.212,-0.041 0.825,-0.047 0.51,0.128 C0.195,0.306 0,0.639 0,1 L0,29 C0,29.361 0.195,29.694 0.51,29.872 C0.662,29.957 0.831,30 1,30 C1.181,30 1.36,29.951 1.52,29.854 L24.52,15.854 C24.818,15.673 25,15.349 25,15 C25,14.651 24.818,14.327 24.52,14.146 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="951px" height="700px" viewBox="0 0 951 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>D3D38C77-3CBF-427F-95A3-31A657B48BA7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="88.9837157%" y1="31.4090174%" x2="-39.1947986%" y2="106.376277%" id="linearGradient-1">
+            <stop stop-color="#F9B235" stop-opacity="0.96" offset="0%"></stop>
+            <stop stop-color="#654A2E" offset="100%"></stop>
+        </linearGradient>
+        <path d="M505.95237,255.500647 C318.78973,197.546526 407.229322,93.9689997 254.121749,20.7661976 C150.802625,-28.6320734 63.5313773,18.9754196 24.8257984,71.1148783 C-15.7022741,125.709379 1.79285964,205.777823 18.4816417,243.978682 C50.5019901,317.273714 141.739544,338.802031 177.08556,390.829001 C212.431576,442.855971 185.242333,543.384729 238.714511,636.110216 C292.186689,728.835703 454.292808,705.218997 505.95237,661.704128 C559.970376,616.202651 589.982814,543.56054 664.67932,487.330639 C730.810107,437.548825 788.483999,398.175684 866.332873,321.179992 C881.627254,306.05323 909.84963,274.176197 951,225.548892 C863.943241,252.088799 804.453236,268.301798 772.529985,274.18789 C662.817172,294.417025 592.815487,282.397444 505.95237,255.500647 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="option-1-copy-2" transform="translate(-856.000000, -2898.000000)">
+            <g id="Iphone" transform="translate(856.000000, 2898.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.0944940476" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
